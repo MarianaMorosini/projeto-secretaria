@@ -1,0 +1,1 @@
+<h1 class="text-stone-400 font-bold mt-10">Olá, seja bem vindo ao seu perfil administrativo!</h1>
